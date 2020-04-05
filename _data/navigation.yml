@@ -1,8 +1,8 @@
 main:
   - title: "Home"
-    url: /home/
-  - title: "Categories"
-    url: /categories/
+    url: https://csli-bit.github.io/
+  - title: "Publication"
+    url: https://csli-bit.github.io/publication/
   - title: "Tags"
     url: /tags/
   - title: "About"
