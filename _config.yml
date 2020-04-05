@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Changsheng Li"
-  avatar : "/assets/images/bio-csli.jpg"
+  avatar : "/assets/image/bio-csli.jpg"
   bio    : "Professor, Beijing Institute of Technology"
   location         : "Beijing"
   links:
