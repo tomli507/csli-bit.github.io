@@ -61,6 +61,7 @@ author:
   name   : "Changsheng Li"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Professor, Beijing Institute of Technology"
+  location         : "Beijing"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
