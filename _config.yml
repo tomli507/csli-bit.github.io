@@ -64,12 +64,15 @@ author:
   Beijing Institute of Technology <br>
   Beijing, China"
   links:
-    - label: "Website"
+    - label: "My BIT Homepage"
       icon: "fas fa-fw fa-link"
       url: "http://cs.bit.edu.cn/szdw/jsml/js/lcs/index.htm"
-    - label: "Google Scholar"
+    - label: "My Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=FfJnUioAAAAJ&hl=en&citsig=AMD79oqAR4UaUBi-0K7NY7CIyEMeljKbIw"
+    - label: "My DBLP"
+      icon: "fas fa-fw fa-link"
+      url: "https://dblp2.uni-trier.de/pers/hd/l/Li:Changsheng"
 
 footer:
   links:
