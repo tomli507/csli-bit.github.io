@@ -60,7 +60,9 @@ plugins:
 author:
   name   : "Changsheng Li"
   avatar : "/assets/image/bio-csli.jpg"
-  bio    : "Professor, PhD Supervisor    Beijing Institute of Technology       Beijing, China"
+  bio    : "Professor, PhD Supervisor"
+           "Beijing Institute of Technology"    
+           "Beijing, China"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
