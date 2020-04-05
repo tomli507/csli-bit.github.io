@@ -63,6 +63,9 @@ author:
   bio    : "Professor, Beijing Institute of Technology"
   location         : "Beijing"
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://csli-bit.github.io"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=FfJnUioAAAAJ&hl=en&citsig=AMD79oqAR4UaUBi-0K7NY7CIyEMeljKbIw"
