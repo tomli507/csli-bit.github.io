@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: paper
+title: Publication List
 permalink: /publication/
 ---
 **Selected Journal Papers (# Equal Contribution)**
